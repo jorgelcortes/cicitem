@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300.7 515.4" style="enable-background:new 0 0 300.7 515.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000079467285259281535060000006559499973740376467_);}
+	.st1{clip-path:url(#SVGID_00000037664911130227525560000007486269745012581250_);}
+	.st2{fill:#211915;}
+	.st3{font-family:'AlegreyaSans-Bold';}
+	.st4{font-size:38.4926px;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-size:28.8694px;}
+	.st7{font-size:19.2463px;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="42.8" width="291.6" height="472.1"/>
+	</defs>
+	<clipPath id="SVGID_00000158749059231664071880000008749397573782232755_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000158749059231664071880000008749397573782232755_);">
+		<defs>
+			<rect id="SVGID_00000148645150241935613570000010831907596033462431_" y="42.8" width="292.1" height="472.6"/>
+		</defs>
+		<clipPath id="SVGID_00000142893275633572413370000008787132364280241301_">
+			<use xlink:href="#SVGID_00000148645150241935613570000010831907596033462431_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000142893275633572413370000008787132364280241301_);">
+			<defs>
+				<rect id="SVGID_00000005961930668883535080000015598936577668452499_" y="42.8" width="291.6" height="472.1"/>
+			</defs>
+			<clipPath id="SVGID_00000063597232568439644120000002549381799364532636_">
+				<use xlink:href="#SVGID_00000005961930668883535080000015598936577668452499_"  style="overflow:visible;"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_00000063597232568439644120000002549381799364532636_);">
+				
+					<image style="overflow:visible;" width="302" height="489" xlink:href="A016E1990C8BDA82.jpg"  transform="matrix(0.9655 0 0 0.9655 0 42.8271)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 134.7367 35.9095)" class="st2 st3 st4">Ruta 119E</text>
+<rect x="172.9" y="42.8" class="st2" width="110.3" height="65.8"/>
+<g>
+	<text transform="matrix(1 0 0 1 184.8803 69.7093)"><tspan x="0" y="0" class="st5 st3 st6">42 km</tspan><tspan x="0" y="23.1" class="st5 st3 st7">153 paradas</tspan></text>
+</g>
+</svg>
